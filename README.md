@@ -1,2 +1,2 @@
 # Love-Detector
-I got bored so made this is love detector.
+I got bored so made this is fun love detector.
